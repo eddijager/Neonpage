@@ -11,7 +11,7 @@
   
 </div>
 
-<img src ="https://github.com/eddijager/NewPortfolio/blob/main/assets/home1.png"/>
+<img src ="https://github.com/eddijager/neonpage/blob/main/assets/ezgif.com-gif-maker.gif"/>
 
 <div style="display: inline_block">
   
