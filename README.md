@@ -22,7 +22,7 @@
 </div>
 
 <h2>:bookmark_tabs: Descrição</h2>
-<p> Pagina inicial Aplicando efeitos de Neon e Reflexo, ultilizando CSS e HTML.</p>
+<p> Pagina inicial Aplicando efeitos de Neon e Reflexo, utilizando CSS e HTML.</p>
 
 
 
